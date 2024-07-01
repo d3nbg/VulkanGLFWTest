@@ -21,7 +21,7 @@ namespace lve {
 		const int width;
 		const int height;
 
-		std::string windowName;//asd
+		std::string windowName;
 		GLFWwindow* window;
 	};
 }
